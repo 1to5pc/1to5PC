@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Sup all. This is my GitHub Page!
+### Feel free to explore.
 
 <!--
 **1to5pc/1to5PC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
