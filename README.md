@@ -1,7 +1,16 @@
-### Hi there 👋
-### Sup all. This is my GitHub Page!
-### Feel free to explore.
+# A GitHub profile readme file
+> $ git add .[^1]
 
+> $ git commit -m "comment"[^2]
+
+> $ git push[^3]
+
+- [x] Use linux
+- [x] Learn git
+
+ [^1]: idk
+ [^2]: prepares ur thingy to be pushed
+ [^3]: pushes ur thingies to ur thingy
 <!--
 **1to5pc/1to5PC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
