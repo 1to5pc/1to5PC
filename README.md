@@ -1,4 +1,4 @@
-# A GitHub profile readme file<sub>[^1]</sub>
+# A GitHub profile readme file<sup>[^1]</sup>
 ```
 $ git add .
 $ git commit -m "updated README"
