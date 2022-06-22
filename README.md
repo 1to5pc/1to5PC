@@ -1,10 +1,9 @@
-# A GitHub profile readme file
-> $ git add .[^1]
-
-> $ git commit -m "comment"[^2]
-
-> $ git push[^3]
-
+# A GitHub profile readme file[^1]
+```
+$ git add .
+$ git commit -m "updated README"
+$ git push
+```
 - [x] Use linux
 - [x] Learn git
 
