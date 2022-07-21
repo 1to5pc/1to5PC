@@ -6,6 +6,7 @@ $ git push
 ```
 - [x] Use linux
 - [x] Learn git
+- [x] Break Open a PC
 
  [^1]: A unfinished one at that
 <!--
