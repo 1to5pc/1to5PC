@@ -8,7 +8,7 @@ $ git push
 - [x] Learn git
 - [x] Break Open a PC
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1to5pc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1to5pc&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
  [^1]: A unfinished one at that
 <!--
