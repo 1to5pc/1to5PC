@@ -11,7 +11,7 @@ $ git push
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1to5pc&show_icons=true&bg_color=122,8164fe,39e8cc&title_color=0071da&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)   
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
 
- [^1]: A unfinished one at that
+ [^1]: An unfinished one at that
 <!--
 **1to5pc/1to5PC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
